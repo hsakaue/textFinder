@@ -2,6 +2,15 @@ package mob.textfinder;
 
 public class TextFinder {
 
+    /**
+     * VSCode ショートカット
+     * java import     -> Shift + Alt + O
+     * ソース開く       -> Ctrl + P
+     * エディタに移動   -> Ctrl + 1
+     * ターミナルに移動 -> Ctrl + @
+     * 
+     * @param args
+     */
     public static void main(String[] args) {
         // Step1
         // テキストファイルから指定文字列が存在するかチェックする
